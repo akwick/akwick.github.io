@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Academic</title>
+    <link>https://akwick.github.io/authors/</link>
+    <description>Recent content in Authors on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2019 16:20:26 -0400</lastBuildDate>
+    
+	<atom:link href="https://akwick.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anam Dodhy</title>
+      <link>https://akwick.github.io/authors/anam-dodhy/</link>
+      <pubDate>Sun, 26 May 2019 16:20:26 -0400</pubDate>
+      
+      <guid>https://akwick.github.io/authors/anam-dodhy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna-Katharina Wickert</title>
+      <link>https://akwick.github.io/authors/anna-katharina-wickert/</link>
+      <pubDate>Sun, 26 May 2019 16:20:26 -0400</pubDate>
+      
+      <guid>https://akwick.github.io/authors/anna-katharina-wickert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Eichberg</title>
+      <link>https://akwick.github.io/authors/michael-eichberg/</link>
+      <pubDate>Sun, 26 May 2019 16:20:26 -0400</pubDate>
+      
+      <guid>https://akwick.github.io/authors/michael-eichberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Reif</title>
+      <link>https://akwick.github.io/authors/michael-reif/</link>
+      <pubDate>Sun, 26 May 2019 16:20:26 -0400</pubDate>
+      
+      <guid>https://akwick.github.io/authors/michael-reif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mira Mezini</title>
+      <link>https://akwick.github.io/authors/mira-mezini/</link>
+      <pubDate>Sun, 26 May 2019 16:20:26 -0400</pubDate>
+      
+      <guid>https://akwick.github.io/authors/mira-mezini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://akwick.github.io/authors/anna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akwick.github.io/authors/anna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

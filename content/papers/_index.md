@@ -1,4 +1,4 @@
 ---
 title: "Papers"
-description: "Preprints and articles on this website."
+description: "Published papers including references to their pre-prints, artifacts, and implementations when applicable."
 ---

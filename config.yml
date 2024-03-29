@@ -1,6 +1,6 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
-paginate: 20
+baseURL: "https://akwickert.de" 
+title: Anna-Katharina Wickert
+paginate: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -14,20 +14,13 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
+        - name: Teaching 
+          url: teaching/
           weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a researcher at TU Darmstadt. My research interests are focuses on static analysis, API-misuses, and software security."
+    author: Anna-Katharina Wickert
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,44 +43,22 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Prof. Name
+          title: Anna-Katharian Wickert 
+          subtitle: "I am a researcher at the Software Technology Group of TU Darmstadt. My research focuses on usages of APIs that may cause vulnerabilities. My PhD advisor is Mira Mezini and I'm part of the CROSSING project."
+          imageUrl: "picture.jpg"
+          imageTitle: Anna-Katharina Wickert
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Teaching 
+              url: teaching/
     socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=8Yk4sZ4AAAAJ&hl=de 
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/akwick
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/akwickert
 
     assets:
         disableHLJS: true
@@ -96,7 +67,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Anna-Katharina Wickert"
       icon: favicon.ico
       iconHeight: 18
 

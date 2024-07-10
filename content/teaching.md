@@ -8,19 +8,14 @@ description: "An overview of different courses and theses that I supervised so f
 
 | Term | Courses |
 | ---- | ------- |
-| Winter 2022/23 | Lecturer for Project Management and Project Management Workshop in *Software Engineering Project* |
-|   | Lecturer for Project Specification in *Software Engineering Project*  |
-| Winter 2021/22 | Lecturer for Project Management and Project Management Workshop in *Software Engineering Project* |
-|   | Lecturer for Project Specification in *Software Engineering Project* |
-|   | Topic instructor for *Go Unsafe Toolkit* in [*Software Development Tools*](https://www.stg.tu-darmstadt.de/teaching_stg/courses_stg/ws_2021___22/software_development_tools/software_development_tools.en.jsp) |
-| Winter 2020/21 | Lecturer for Project Management and Project Management Workshop in *Software Engineering Project* |
-|   | Lecturer for Project Specification in *Software Engineering Project* |
+| Winter 2022/23 | Lecturer for Project Management and Project Specification, and Instructor of Project Management Workshop in *Software Engineering Project* |
+| Winter 2021/22 | Lecturer for Project Management and Project Specification, and Instructor of Project Management Workshop in *Software Engineering Project* |
+|   | Topic instructor for *Go Unsafe Toolkit* in *Software Development Tools* |
+| Winter 2020/21 | Lecturer for Project Management and Project Specification, and Instructor of Project Management Workshop in *Software Engineering Project* |
 | Sommer 2020 | Co-supervisor with Lars Baumgärtner for the Studienarbeit *Language Independent Crypto-Misuse Analysis* |
-| Winter 2019/20 | Lecturer for Project Management and Project Management Workshop in *Software Engineering Project* |
-|   | Lecturer for Project Specification in *Software Engineering Project* |
+| Winter 2019/20 | Lecturer for Project Management and Project Specification, and Instructor of Project Management Workshop in *Software Engineering Project* |
 |   | Advisor for the team TURLS in *Software Engineering Project* |
-| Winter 2018/19 | Lecturer for Project Management in *Software Engineering Project* |
-|   | Lecturer for Project Specification in *Software Engineering Project* |
+| Winter 2018/19 | Lecturer for Project Management and Project Specification, and Instructor of Project Management Workshop in *Software Engineering Project* |
 |   | Advisor for the topics *Discussion on the Usability of Stanford Javascript Crypto Library*  and *Discussion on the Usability of Tink* in *Foundations of Static Analysis* |
 | Summer 2018 | Advisor for the topics *Parameter-Outlier Detection* and *Cryptographic-misuses caused by Parameters* in *Foundations of Static Analyses* |
 

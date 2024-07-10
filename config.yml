@@ -19,7 +19,7 @@ menu:
           weight: 2
 
 params:
-    description: "I am a researcher at TU Darmstadt. My research interests are focuses on static analysis, API-misuses, and software security."
+    description: "I was a researcher at TU Darmstadt. My research interests focused on static analysis, API-misuses, and software security."
     author: Anna-Katharina Wickert
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -44,7 +44,7 @@ params:
     profileMode:
           enabled: true
           title: Anna-Katharian Wickert 
-          subtitle: "I am a researcher at the Software Technology Group of TU Darmstadt. My research focuses on usages of APIs that may cause vulnerabilities. My PhD advisor is Mira Mezini and I'm part of the CROSSING project."
+          subtitle: "I was a researcher at the Software Technology Group of TU Darmstadt. My research focused on usages of APIs that may cause vulnerabilities. My PhD advisor was Mira Mezini and I was part of the CROSSING project."
           imageUrl: "picture.jpg"
           imageTitle: Anna-Katharina Wickert
           buttons:

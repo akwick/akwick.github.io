@@ -59,6 +59,8 @@ params:
           url: https://github.com/akwick
         - name: Twitter
           url: https://twitter.com/akwickert
+        - name: LinkedIn
+          url: https://linkedin.com/in/anna-katharina-wickert-60597a142
 
     assets:
         disableHLJS: true

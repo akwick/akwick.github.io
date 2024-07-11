@@ -6,7 +6,7 @@ author: ["Michael Schlichtig", "Anna-Katharina Wickert", "Stefan Krüger", "Eri
 description: "The suggested benchmark suite CamBench to provide a novel approach to compare the capabilities of cryptographic API misuse detection tools." 
 summary: "So far, benchmarks for cryptographic API misuses only focused on a subset of issues or tools. To drive future development in this domain, we will openly generate a benchmark. We will derive the generation of this novel benchmark from best practices."
 cover:
-    image: "featured.png"
+    image: "featured.jpg"
     alt: "Last slide of the talk and an overview of the work."
     relative: false
 editPost:

@@ -1,6 +1,6 @@
 ---
 title: "A Dataset of Parametric Cryptographic Misuses" 
-date: 2019-05
+date: 2019-05-27
 url: /paper/
 author: ["Anna-Katharina Wickert", "Michael Reif", "Michael Eichberg", "Anam Dodhy", "Mira Mezini"]
 description: "88-95% of apps using crypto APIs are insecure. Our dataset of 201 real-world misuses aids research & detection tool evaluation" 

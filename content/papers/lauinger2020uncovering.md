@@ -1,6 +1,6 @@
 ---
 title: "Uncovering the Hidden Dangers: Finding Unsafe Go Code in the Wild"
-date: 2020-12
+date: 2020-12-29
 url: /paper/
 author: ["Johannes Lauinger", "Lars Baumgärtner", "Anna-Katharina Wickert", "Mira Mezini"]
 description: "An empirical study of unsafe usages in Go." 

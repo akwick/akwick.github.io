@@ -1,6 +1,6 @@
 ---
 title: "To Fix or Not to Fix: A Critical Study of Crypto-misuses in the Wild" 
-date: 2022-12
+date: 2022-12-09
 url: /paper/
 author: ["Anna-Katharina Wickert", "Lars Baumgärtner", "Michael Schlichtig", "Krishna Narasimhan", "Mira Mezini"]
 description: "Empirial study of cryptographic misuses that identified several potential effective false positives." 

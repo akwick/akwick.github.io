@@ -1,10 +1,13 @@
 ---
 title: "To Fix or Not to Fix: A Critical Study of Crypto-misuses in the Wild" 
 date: 2022-12-09
-url: /paper/
 author: ["Anna-Katharina Wickert", "Lars Baumgärtner", "Michael Schlichtig", "Krishna Narasimhan", "Mira Mezini"]
 description: "Empirial study of cryptographic misuses that identified several potential effective false positives." 
 summary: "Empirial study of cryptographic misuses on enterprise-driven applications that identified several potential effective false positives, such as the use of hash algorithms in a non-security context. Further, we introduced a theoretical model of vulnerabilities caused by API misuses."
+cover:
+    image: "featured.jpg"
+    alt: "Last slide of the presentation and an overview of the paper."
+	relative: false
 editPost:
     URL: "https://doi.org/10.1109/TrustCom56396.2022.00051"
     Text: "DOI"
@@ -13,22 +16,15 @@ editPost:
 
 ---
 
-##### Download:
 
-- [Paper arXiv](https://arxiv.org/abs/2209.11103)
-- [Data](https://figshare.com/articles/software/To_Fix_or_Not_to_Fix_A_Critical_Study_of_Crypto-misuses_in_the_Wild/21178243)
+- [📄 Paper arXiv](https://arxiv.org/abs/2209.11103)
+- [💾 Data set](https://figshare.com/articles/software/To_Fix_or_Not_to_Fix_A_Critical_Study_of_Crypto-misuses_in_the_Wild/21178243)
 
 ---
 
 ##### Abstract
 
 Recent studies have revealed that 87 % to 96 % of the Android apps using cryptographic APIs have a misuse which may cause security vulnerabilities. As previous studies did not conduct a qualitative examination of the validity and severity of the findings, our objective was to understand the findings in more depth. We analyzed a set of 936 open-source Java applications for cryptographic misuses. Our study reveals that 88.10 % of the analyzed applications fail to use cryptographic APIs securely. Through our manual analysis of a random sample, we gained new insights into effective false positives. For example, every fourth misuse of the frequently misused JCA class MessageDigest is an effective false positive due to its occurrence in a non-security context. As we wanted to gain deeper insights into the security implications of these misuses, we created an extensive vulnerability model for cryptographic API misuses. Our model includes previously undiscussed attacks in the context of cryptographic APIs such as DoS attacks. This model reveals that nearly half of the misuses are of high severity, e.g., hard-coded credentials and potential Man-in-the-Middle attacks.
-
----
-
-##### Figure X:  Figure title
-
-![](/figurex.png)
 
 ---
 
@@ -53,6 +49,3 @@ Wickert, Anna-Katharina, Lars Baumgärtner, Michael Schlichtig, Krishna Narasimh
 
 ---
 
-##### Related material
-
-+ [Presentation slides](/presentation.pdf)

@@ -1,7 +1,6 @@
 ---
 title: "Uncovering the Hidden Dangers: Finding Unsafe Go Code in the Wild"
 date: 2020-12-29
-url: /paper/
 author: ["Johannes Lauinger", "Lars Baumgärtner", "Anna-Katharina Wickert", "Mira Mezini"]
 description: "An empirical study of unsafe usages in Go." 
 summary: "We conducted an empirical study to understand how frequently the unsafe API is used in Go. We show that 38% of the analyzed projects directly use the unsafe API. Further, we introduce go-geiger and go-safer to assess usages of the API."
@@ -12,13 +11,9 @@ editPost:
 ---
 
 
-##### Download:
 
-- [Paper on arXiv](https://arxiv.org/abs/2010.11242)
-- [Tool: go-geiger](https://github.com/jlauinger/go-geiger)
-- [Tool: go-safer](https://github.com/jlauinger/go-safer)
-- [Proof of concept exploits](https://github.com/jlauinger/go-unsafepointer-poc)
-- [Data](https://zenodo.org/record/4130780)
+- [📄 Paper on arXiv](https://arxiv.org/abs/2010.11242)
+
 
 ---
 
@@ -48,3 +43,9 @@ Lauinger, Johannes, Lars Baumgärtner, Anna-Katharina Wickert, and Mira Mezini. 
 }
 ```
 
+##### Related material
+
++ [💣 Exploit Proof of Concept](https://dev.to/jlauinger/exploitation-exercise-with-unsafe-pointer-in-go-information-leak-part-1-1kga)
++ [🎙️ Presentation on YouTube](https://youtu.be/adn6A7nG61I)
++ [🔒 go-safer](https://github.com/stg-tud/go-safer)
++ [☢ go-geiger](https://github.com/stg-tud/go-geiger)

@@ -43,7 +43,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Anna-Katharian Wickert 
+          title: Anna-Katharina Wickert 
           subtitle: "I was a researcher at the Software Technology Group of TU Darmstadt. My research focused on usages of APIs that may cause vulnerabilities. My PhD advisor was Mira Mezini and I was part of the CROSSING project."
           imageUrl: "picture.jpg"
           imageTitle: Anna-Katharina Wickert

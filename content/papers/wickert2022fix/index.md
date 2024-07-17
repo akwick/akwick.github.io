@@ -6,13 +6,11 @@ description: "Empirial study of cryptographic misuses that identified several po
 summary: "Empirial study of cryptographic misuses on enterprise-driven applications that identified several potential effective false positives, such as the use of hash algorithms in a non-security context. Further, we introduced a theoretical model of vulnerabilities caused by API misuses."
 cover:
     image: "featured.jpg"
-    alt: "Last slide of the presentation and an overview of the paper."
-	relative: false
+    alt: "Last slide of the talk and an overview of the work."
+    relative: false
 editPost:
     URL: "https://doi.org/10.1109/TrustCom56396.2022.00051"
     Text: "DOI"
-
----
 
 ---
 

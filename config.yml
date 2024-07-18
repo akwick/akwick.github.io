@@ -19,7 +19,7 @@ menu:
           weight: 2
 
 params:
-    description: "I was a researcher at TU Darmstadt. My research interests focused on static analysis, API-misuses, and software security."
+    description: "I am a student and teacher of various topics in software engineering. I wrote my PhD thesis at the Software Technology Group at TU Darmstadt, focusing on static analysis, bugs as well as vulnerabilities introduced through APIs, and software security. Additionally, I have spoken at various conferences, developed a LinkedIn learning course, contributed to university courses, and served on multiple program committees in both industry and research."
     author: Anna-Katharina Wickert
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -44,7 +44,8 @@ params:
     profileMode:
           enabled: true
           title: Anna-Katharina Wickert 
-          subtitle: "I was a researcher at the Software Technology Group of TU Darmstadt. My research focused on usages of APIs that may cause vulnerabilities. My PhD advisor was Mira Mezini and I was part of the CROSSING project."
+          subtitle:
+          subtitle: "I am a student and teacher of various topics in software engineering. I wrote my PhD thesis at the Software Technology Group at TU Darmstadt, focusing on static analysis, bugs as well as vulnerabilities introduced through APIs, and software security. Additionally, I have spoken at various conferences, developed a LinkedIn learning course, contributed to university courses, and served on multiple program committees in both industry and research."
           imageUrl: "picture.jpg"
           imageTitle: Anna-Katharina Wickert
           buttons:

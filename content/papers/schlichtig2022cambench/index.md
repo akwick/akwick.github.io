@@ -1,6 +1,7 @@
 ---
 title: "CamBench - Cryptographic API Misuse Detection Tool Benchmark Suite" 
 date: 2022-05-19
+tags: ["API misuses","cryptography","benchmark","empirical studies", "static analysis"]
 author: ["Michael Schlichtig", "Anna-Katharina Wickert", "Stefan Krüger", "Eric Bodden", "Mira Mezini"]
 description: "The suggested benchmark suite CamBench to provide a novel approach to compare the capabilities of cryptographic API misuse detection tools." 
 summary: "So far, benchmarks for cryptographic API misuses only focused on a subset of issues or tools. To drive future development in this domain, we will openly generate a benchmark. We will derive the generation of this novel benchmark from best practices."
@@ -14,8 +15,8 @@ cover:
 
 ---
 
-- [Paper arXiv](https://arxiv.org/pdf/2204.06447)
-- [Code](https://github.com/CROSSINGTUD/CamBench)
+- [📄 Paper arXiv](https://arxiv.org/pdf/2204.06447)
+- [🔍 Code](https://github.com/CROSSINGTUD/CamBench)
 
 ---
 
@@ -32,20 +33,19 @@ We propose an approach where we derive the benchmark generation methodology from
 
 ##### Citation
 
-Wickert, Anna-Katharina, Lars Baumgärtner, Michael Schlichtig, Krishna Narasimhan, and Mira Mezini. ‘To Fix or Not to Fix: A Critical Study of Crypto-Misuses in the Wild’. In {IEEE} International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2022, Wuhan, China, December 9-11, 2022, 315--322. IEEE, 2022. https://doi.org/10.1109/TRUSTCOM56396.2022.00051.
+Michael Schlichtig, **Anna-Katharina Wickert**, Stefan Krüger, Eric Bodden, and Mira Mezini. “CamBench–Cryptographic API misuse detection tool benchmark suite.” In: (2022). accepted at the MSR 2022 Registered Reports Track as In-Principal Acceptance (IPA). 
+
 
 
 ```BibTeX
 @misc{schlichtig2022cambench,
 	title = {{CamBench} -- {Cryptographic} {API} {Misuse} {Detection} {Tool} {Benchmark} {Suite}},
-	copyright = {All rights reserved},
 	url = {http://arxiv.org/abs/2204.06447},
 	publisher = {arXiv},
 	author = {Schlichtig, Michael and Wickert, Anna-Katharina and Krüger, Stefan and Bodden, Eric and Mezini, Mira},
 	month = apr,
 	year = {2022},
 	note = {accepted at the MSR 2022 Registered Reports Track as In-Principal Acceptance (IPA), ranked A in CORE21},
-	keywords = {Computer Science - Software Engineering},
 	annote = {Comment: 8 pages, accepted at the MSR 2022 Registered Reports Track as a In-Principal Acceptance (IPA)},
 }
 ```
@@ -54,8 +54,8 @@ Wickert, Anna-Katharina, Lars Baumgärtner, Michael Schlichtig, Krishna Narasimh
 
 ##### Related material
 
-+ [Presentation slides - Virtual MSR](https://github.com/CROSSINGTUD/CamBench/blob/main/presentations/2022_05_19_MSR_CamBench.pdf)
-+ [Presentation slides - In-person MSR](https://github.com/CROSSINGTUD/CamBench/blob/main/presentations/2022_05_24_MSR_CamBench.pdf)
-+ [Poster - In-person MSR](https://github.com/CROSSINGTUD/CamBench/blob/main/presentations/2022_05_23_MSR_CamBench_Poster.pdf)
-+ [CamBench REAL](https://github.com/CROSSINGTUD/CamBench/tree/main/CamBench_Real)
-+ [Logo](https://github.com/CROSSINGTUD/CamBench/tree/main/logos)
++ [🗣️ Presentation slides - Virtual MSR](https://github.com/CROSSINGTUD/CamBench/blob/main/presentations/2022_05_19_MSR_CamBench.pdf)
++ [🗣️ Presentation slides - In-person MSR](https://github.com/CROSSINGTUD/CamBench/blob/main/presentations/2022_05_24_MSR_CamBench.pdf)
++ [🖼️ Poster - In-person MSR](https://github.com/CROSSINGTUD/CamBench/blob/main/presentations/2022_05_23_MSR_CamBench_Poster.pdf)
++ [👩‍💻 CamBench REAL](https://github.com/CROSSINGTUD/CamBench/tree/main/CamBench_Real)
++ [🎨 Logo](https://github.com/CROSSINGTUD/CamBench/tree/main/logos)

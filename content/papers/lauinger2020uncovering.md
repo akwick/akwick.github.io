@@ -1,6 +1,7 @@
 ---
 title: "Uncovering the Hidden Dangers: Finding Unsafe Go Code in the Wild"
 date: 2020-12-29
+tags: ["Go","static analysis","memory corruption","unsafe API", "vulnerable API usage", "buffer overflow"]
 author: ["Johannes Lauinger", "Lars Baumgärtner", "Anna-Katharina Wickert", "Mira Mezini"]
 description: "An empirical study of unsafe usages in Go." 
 summary: "We conducted an empirical study to understand how frequently the unsafe API is used in Go. We show that 38% of the analyzed projects directly use the unsafe API. Further, we introduce go-geiger and go-safer to assess usages of the API."
@@ -11,8 +12,9 @@ editPost:
 ---
 
 
-
-- [📄 Paper on arXiv](https://arxiv.org/abs/2010.11242)
++ [📄 Paper on arXiv](https://arxiv.org/abs/2010.11242)
++ [🔒 go-safer](https://github.com/stg-tud/go-safer)
++ [☢ go-geiger](https://github.com/stg-tud/go-geiger)
 
 
 ---
@@ -26,7 +28,7 @@ The Go programming language aims to provide memory and thread safety through mea
 
 ##### Citation
 
-Lauinger, Johannes, Lars Baumgärtner, Anna-Katharina Wickert, and Mira Mezini. ‘Uncovering the Hidden Dangers: Finding Unsafe Go Code in the Wild’. In 2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 410–17, 2020. https://doi.org/10.1109/TrustCom50675.2020.00063.
+Johannes Lauinger, Lars Baumgärtner, **Anna-Katharina Wickert**, and Mira Mezini. “Uncovering the hidden dangers: Finding unsafe go code in the wild.” In: *2020 IEEE 19th international conference on trust, security and privacy in computing and communications (TrustCom)*. IEEE, 2020. DOI: [10.1109/TRUSTCOM50675.2020.00063](https://doi.org/10.1109/TrustCom50675.2020.00063).
 
 
 ```BibTeX
@@ -43,9 +45,9 @@ Lauinger, Johannes, Lars Baumgärtner, Anna-Katharina Wickert, and Mira Mezini. 
 }
 ```
 
+------ 
+
 ##### Related material
 
 + [💣 Exploit Proof of Concept](https://dev.to/jlauinger/exploitation-exercise-with-unsafe-pointer-in-go-information-leak-part-1-1kga)
 + [🎙️ Presentation on YouTube](https://youtu.be/adn6A7nG61I)
-+ [🔒 go-safer](https://github.com/stg-tud/go-safer)
-+ [☢ go-geiger](https://github.com/stg-tud/go-geiger)

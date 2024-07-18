@@ -1,6 +1,7 @@
 ---
 title: "To Fix or Not to Fix: A Critical Study of Crypto-misuses in the Wild" 
 date: 2022-12-09
+tags: ["API misuses","static analysis","false positive reduction","empirical studies", "cryptographic API misuses", "API misuses", "cryptography", "vulnerabilities"]
 author: ["Anna-Katharina Wickert", "Lars Baumgärtner", "Michael Schlichtig", "Krishna Narasimhan", "Mira Mezini"]
 description: "Empirial study of cryptographic misuses that identified several potential effective false positives." 
 summary: "Empirial study of cryptographic misuses on enterprise-driven applications that identified several potential effective false positives, such as the use of hash algorithms in a non-security context. Further, we introduced a theoretical model of vulnerabilities caused by API misuses."
@@ -28,7 +29,7 @@ Recent studies have revealed that 87 % to 96 % of the Android apps using cryptog
 
 ##### Citation
 
-Wickert, Anna-Katharina, Lars Baumgärtner, Michael Schlichtig, Krishna Narasimhan, and Mira Mezini. ‘To Fix or Not to Fix: A Critical Study of Crypto-Misuses in the Wild’. In {IEEE} International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2022, Wuhan, China, December 9-11, 2022, 315--322. IEEE, 2022. https://doi.org/10.1109/TRUSTCOM56396.2022.00051.
+**Wickert, Anna-Katharina**, Lars Baumgärtner, Michael Schlichtig, Krishna Narasimhan, and Mira Mezini. ‘To Fix or Not to Fix: A Critical Study of Crypto-Misuses in the Wild’. In {IEEE} International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2022, Wuhan, China, December 9-11, 2022, 315--322. IEEE, 2022. DOI: [10.1109/TRUSTCOM56396.2022.00051](https://doi.org/10.1109/TRUSTCOM56396.2022.00051).
 
 
 ```BibTeX

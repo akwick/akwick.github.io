@@ -1,6 +1,7 @@
 ---
 title: "A Dataset of Parametric Cryptographic Misuses" 
 date: 2019-05-27
+tags: ["API misuses","cryptography","Java","benchmark", "static analysis", "dataset"]
 author: ["Anna-Katharina Wickert", "Michael Reif", "Michael Eichberg", "Anam Dodhy", "Mira Mezini"]
 description: "88-95% of apps using crypto APIs are insecure. Our dataset of 201 real-world misuses aids research & detection tool evaluation" 
 summary: "Cryptographic APIs are often misused. Our dataset of 201 real-world misuses aids research & tool evaluation that aim to mitigate cryptographic API misuses. "
@@ -28,7 +29,7 @@ Cryptographic APIs (Crypto APIs) provide the foundations for the development of 
 
 ##### Citation
 
-Wickert, Anna-Katharina, Michael Reif, Michael Eichberg, Anam Dodhy, and Mira Mezini. ‘A Dataset of Parametric Cryptographic Misuses’. In Proceedings of the 16th International Conference on Mining Software                   Repositories, MSR 2019, 26-27 May 2019, Montreal, Canada, IEEE / ACM, 2019. https://doi.org/10.1109/MSR.2019.00023.
+**Anna-Katharina Wickert**, Michael Reif, Michael Eichberg, Anam Dodhy, and Mira Mezini. “A dataset of parametric cryptographic misuses.” In: *2019 IEEE/ACM 16th international conference on mining software repositories (MSR)*. IEEE, 2019. DOI: [10.1109/MSR.2019.00023](https://doi.org/10.1109/MSR.2019.00023.).
 
 
 ```BibTeX
@@ -42,5 +43,4 @@ Wickert, Anna-Katharina, Michael Reif, Michael Eichberg, Anam Dodhy, and Mira Me
 	editor = {Storey, MargaretAnne D. and Adams, Bram and Haiduc, Sonia},
 	year = {2019},
 }
-
 ```

@@ -1,7 +1,6 @@
 ---
 title: "Supporting Error Chains in Static Analysis for Precise Evaluation Results and Enhanced Usability" 
 date: 2024-03-01
-url: /paper/
 tags: ["static analysis","error chains","false positive reduction","empirical studies", "cryptographic API misuses", "API misuses"]
 author: ["Anna-Katharina Wickert", "Michael Schlichtig", "Marvin Vogel", "Lukas Winter", "Mira Mezini", "Eric Bodden"]
 description: "Static analyses often miss the fix location of bugs, causing false positives. Our adapted algorithm reports error chains, showing that every second project is affected by connected misuses." 

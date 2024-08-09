@@ -21,6 +21,8 @@ description: "An overview of different courses and theses that I supervised so f
 
 #### Supervised Theses
 
+- Extending CogniCrypt_SAST to detect and understand subsequent errors for crypto misuses in the wild
+- CamBench_Cap - Creating a benchmark to test analysis capabilities of Java cryptographic API misuse detectors 
 - [Optimisation of Low-Density Parity-Check Codes for Quantum Key Distribution Post-Processing](https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/theses_stg_details_44864.en.jsp)
 - [Quantum Key Distribution Post-Processing](https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/theses_stg_details_34304.en.jsp)
 - [Improved Presentation of Subsequent Errors in Analysis Results of CogniCryptSAST](https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/theses_stg_details_36096.en.jsp)
@@ -32,6 +34,6 @@ description: "An overview of different courses and theses that I supervised so f
 - [How secure are business applications? An in-depth study on the security of business applications](https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/theses_stg_details_36480.en.jsp)
 - [Benchmarking of API-misuse Detectors for Parametric Cryptographic API-misuses](https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/theses_stg_details_26688.en.jsp)
 - [Study on The Security Level of “Security Stack Exchange”: How Trustable Are Code Snippets on This Platform](https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/theses_stg_details_36864.en.jsp)
-- [Benchmarking Static Misuse or Bug Detectors Using Software Vulnerabilities](https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/theses_stg_details_16960.en.jsp)
+- [Benchmarking Static Misuse or Bug Detectors Using Software Vulnerabilities](https://www.stg.tu-darmstadt.de/teaching_stg/theses_stg/theses_stg_details_16960.en.jsp) 
 
 ---

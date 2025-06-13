@@ -1,6 +1,6 @@
 baseURL: "https://akwickert.de" 
 title: Anna-Katharina Wickert
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -19,7 +19,7 @@ menu:
           weight: 2
 
 params:
-    description: "I am a student and teacher of various topics in software engineering. I wrote my PhD thesis at the Software Technology Group at TU Darmstadt, focusing on static analysis, bugs as well as vulnerabilities introduced through APIs, and software security. Additionally, I have spoken at various conferences, developed a LinkedIn learning course, contributed to university courses, and served on multiple program committees in both industry and research."
+    description: "I am a student and teacher of various topics. I work at Deutsche Bundesbank as an IT security manager for Java applications. Previously, I worked as a researcher at the Software Technology Group at TU Darmstadt, focusing on static analysis, bugs and vulnerabilities introduced through APIs, and software security. Additionally, I have spoken at various conferences, developed a LinkedIn Learning course, contributed to university courses, and served on multiple program committees in both industry and academia."
     author: Anna-Katharina Wickert
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -45,8 +45,8 @@ params:
           enabled: true
           title: Anna-Katharina Wickert 
           subtitle:
-          subtitle: "I am a student and teacher of various topics in software engineering. I wrote my PhD thesis at the Software Technology Group at TU Darmstadt, focusing on static analysis, bugs as well as vulnerabilities introduced through APIs, and software security. Additionally, I have spoken at various conferences, developed a LinkedIn learning course, contributed to university courses, and served on multiple program committees in both industry and research."
-          imageUrl: "picture.jpg"
+          subtitle: "I am a student and teacher of various topics. I work at Deutsche Bundesbank as an IT security manager for Java applications. Previously, I worked as a researcher at the Software Technology Group at TU Darmstadt, focusing on static analysis, bugs and vulnerabilities introduced through APIs, and software security. Additionally, I have spoken at various conferences, developed a LinkedIn Learning course, contributed to university courses, and served on multiple program committees in both industry and academia."
+          imageUrl: "profilepicture.png"
           imageTitle: Anna-Katharina Wickert
           buttons:
             - name: Papers

@@ -1,5 +1,5 @@
 baseURL: "https://akwickert.de" 
-title: Anna-Katharina Wickert
+title: Anna-Katharina Gauer Wickert
 pagination.pagerSize: 5
 theme: PaperMod
 
@@ -20,7 +20,7 @@ menu:
 
 params:
     description: "I am a student and teacher of various topics. I work at Deutsche Bundesbank as an IT security manager for Java applications. Previously, I worked as a researcher at the Software Technology Group at TU Darmstadt, focusing on static analysis, bugs and vulnerabilities introduced through APIs, and software security. Additionally, I have spoken at various conferences, developed a LinkedIn Learning course, contributed to university courses, and served on multiple program committees in both industry and academia."
-    author: Anna-Katharina Wickert
+    author: Anna-Katharina Gauer Wickert
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -43,11 +43,11 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Anna-Katharina Wickert 
+          title: Anna-Katharina Gauer Wickert 
           subtitle:
           subtitle: "I am a student and teacher of various topics. I work at Deutsche Bundesbank as an IT security manager for Java applications. Previously, I worked as a researcher at the Software Technology Group at TU Darmstadt, focusing on static analysis, bugs and vulnerabilities introduced through APIs, and software security. Additionally, I have spoken at various conferences, developed a LinkedIn Learning course, contributed to university courses, and served on multiple program committees in both industry and academia."
           imageUrl: "profilepicture.png"
-          imageTitle: Anna-Katharina Wickert
+          imageTitle: Anna-Katharina Gauer Wickert
           buttons:
             - name: Papers
               url: papers/
@@ -70,7 +70,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Anna-Katharina Wickert"
+      text: "Anna-Katharina Gauer Wickert"
       icon: favicon.ico
       iconHeight: 18
 
